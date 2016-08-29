@@ -1,0 +1,28 @@
+/*feed css*/
+.panel .panel-body {
+    height: 550px; 
+    overflow: auto; 
+    margin: 0px;
+}
+
+.panel .scroll-top-btn-container {
+    position: fixed;
+    right: 50%;
+    top: 10%;
+    opacity: 0.8;
+}
+
+.panel .thumbnail {
+    margin: 0px 10px 5px 0px;
+}
+
+.panel .user-name {
+    margin: 5px 0px;
+}
+
+/*feed photo css*/
+.feed-photo-img {
+    margin: 0px 10px 5px 0px;
+}
+
+

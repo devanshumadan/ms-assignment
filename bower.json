@@ -1,0 +1,17 @@
+{
+  "name": "morgan",
+  "description": "assignment",
+  "main": "index.html",
+  "authors": [
+    "Devanshu Madan"
+  ],
+  "license": "open",
+  "keywords": [
+    "NA"
+  ],
+  "homepage": "morgan",
+  "dependencies": {
+    "angular": "^1.5.8",    
+    "bootstrap": "^3.3.7"
+  }
+}

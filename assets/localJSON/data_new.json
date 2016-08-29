@@ -1,0 +1,58 @@
+[
+    {
+        "post_user":"Ross Geller New",
+        "post_user_img": "https://easyzoom.com/Content/template/new/images/placeholder/profile.png",
+        "post_content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+        "post_type": "photo",
+        "post_img": "http://www.descoaching.com/wp-content/uploads/2015/06/dummy.jpg",
+        "ID":"1"
+    },
+    {
+        "post_user":"Rachel Green New",
+        "post_user_img": "https://easyzoom.com/Content/template/new/images/placeholder/profile.png",
+        "post_content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+        "post_type": "photo",
+        "post_img":"http://www.descoaching.com/wp-content/uploads/2015/06/dummy.jpg",
+        "ID":"1"
+    },
+    {
+        "post_user":"Phoebe Buffay New",
+        "post_user_img": "https://easyzoom.com/Content/template/new/images/placeholder/profile.png",
+        "post_content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+        "post_type": "photo",
+        "post_img": "http://www.descoaching.com/wp-content/uploads/2015/06/dummy.jpg",
+        "ID":"1"
+    },
+    {
+        "post_user":"Joey Tribbiani New",
+        "post_user_img": "https://easyzoom.com/Content/template/new/images/placeholder/profile.png",
+        "post_content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+        "post_type": "status",
+        "post_img":null,
+        "ID":"1"
+    },
+    {
+        "post_user":"Chandler Bing New",
+        "post_user_img": "https://easyzoom.com/Content/template/new/images/placeholder/profile.png",
+        "post_content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+       "post_type": "status",
+        "post_img":null,
+        "ID":"1"
+    },
+    {
+        "post_user":"Monica Geller New",
+        "post_user_img": "https://easyzoom.com/Content/template/new/images/placeholder/profile.png",
+        "post_content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+        "post_type": "status",
+        "post_img": null,
+        "ID":"1"
+    },
+    {
+        "post_user":"Gary Matlik New",
+        "post_user_img": "https://easyzoom.com/Content/template/new/images/placeholder/profile.png",
+        "post_content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+        "post_type": "status",
+        "post_img": null,
+        "ID":"1"
+    }
+]

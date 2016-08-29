@@ -1,0 +1,20 @@
+<div class="container">
+    <div class="panel panel-default">
+        <div class="panel-heading">Test Feed Application</div>
+        <div class="content panel-body">
+            <div class="scroll-top-btn-container">
+                <button class="btn btn-primary" ng-show="newData" ng-click="scrollTop();">New Items</button>
+            </div>
+            <div id="item-{{item.ID}}" class="item" data-ng-repeat="item in data">
+                <img class="thumbnail pull-left" width="50px" height="50px" ng-src="{{item.post_user_img}}">
+                <a href="#">
+                    <h4 class="user-name">{{item.post_user}}</h4>
+                </a>
+                <status-feed></status-feed>
+                <div class="well well-sm">
+                    <a href="#">Like</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

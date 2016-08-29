@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Morgan Stanley</title>
+    <!--Bootstrap CSS-->
+    <link rel="stylesheet" href="bower_components\bootstrap\dist\css\bootstrap.min.css">
+    <!--Application CSS-->
+    <link rel="stylesheet" href="css/app.css">
+</head>
+
+<body ng-app="morgan" ng-controller="appController">
+    <!--feed reader directive-->
+    <feed-reader ng-if='feed.feedData.length' data='feed.feedData'></feed-reader>
+
+    <!-- Libs -->
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- Application -->
+    <script src="feed.module.js"></script>
+    <script src="app.js"></script>
+    <script src="app.config.js"></script>
+    <script src="services/dataService.js"></script>
+    <script src="controllers/appController.js"></script>
+    <script src="directives/feedRead.js"></script>
+    <script src="directives/photoFeed.js"></script>
+    <script src="directives/statusFeed.js"></script>
+</body>
+
+</html>
